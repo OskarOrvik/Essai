@@ -48,7 +48,8 @@ article p:last-child {
 }
 
 a {
-    color: #007bff;
+    color: #000000;
+    text-decoration: none;
 }
 
 footer {
